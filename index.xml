@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Tang-Jie</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>|Icons made by Smashicons from Flaticon|. © 2020 Tang-Jie</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>|Icons made by Smashicons from Flaticon|. © 2020 Tang-Jie</copyright><lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tang-Jie</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Landing Page</title>
+      <title>Portfolio</title>
       <link>/portfolio/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/portfolio/</guid>
       <description></description>
     </item>
